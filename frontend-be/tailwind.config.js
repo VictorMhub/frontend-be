@@ -51,6 +51,9 @@ module.exports = {
           DEFAULT: "hsl(var(--card))",
           foreground: "hsl(var(--card-foreground))",
         },
+        fontFamily: {
+          roboto: ['Roboto', 'sans-serif'],
+        },
       },
       borderRadius: {
         lg: "var(--radius)",
