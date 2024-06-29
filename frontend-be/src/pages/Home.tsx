@@ -60,8 +60,6 @@ export function Home() {
         )
       : [];
 
-  console.log(search);
-
   return (
     <section className="flex flex-col w-full h-[800px] gap-[28px]">
       <header className="flex w-full h-[60px] border-2 items-center shadow-md">
