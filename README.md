@@ -52,4 +52,3 @@ com `yarn json-server <path>/db.json`, em que `<path>` é o caminho completo at�
 O projeto possui as seguintes branches principais:
 
 - `main`: Contém a versão estável do projeto.
-````
