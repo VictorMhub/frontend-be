@@ -37,7 +37,7 @@ com `yarn json-server <path>/db.json`, em que `<path>` √© o caminho completo at√
 
    ````bash
    npm install @vitejs/plugin-react
-   ```
+   
 
 6. Inicie o servidor de desenvolvimento:
 
