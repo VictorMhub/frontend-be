@@ -29,7 +29,6 @@ export function Home() {
 const [employees, setEmployees] = useState<Employee[]>([]);
 const [search, setSearch] = useState("");
 const [selectedEmployees, setSelectedEmployees] = useState<{ [key: number]: boolean }>({});
-console.log(selectedEmployees);
 
 
 const toggleVector = (id: number): void => {
